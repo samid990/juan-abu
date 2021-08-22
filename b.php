@@ -55,6 +55,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-NSL827N');</script>
 <!-- End Google Tag Manager -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DBKY3Z29N5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DBKY3Z29N5');
+</script>
 </head>
 <body class="page-template page-template-page_landingpress page-template-page_landingpress-php page page-id-290 page-landingpress page-landingpress-full header-inactive footer-inactive elementor-default elementor-kit-11 elementor-page elementor-page-290">
 <!-- Google Tag Manager (noscript) -->
